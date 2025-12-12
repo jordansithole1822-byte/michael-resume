@@ -1,0 +1,52 @@
+ <!DOCTYPE html>
+
+ <html lang="en">    
+ <head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+ </head>
+
+ <body>
+    <h1>Michael Sithole</h1>
+    <img src="./4.3 HTML Porfolio Project/image.png" height="200" alt="Michael photo"/>
+    <h2>Summary</h2>
+    <p>I am a committed and motivated individual who has experience investing in crypto currency.l aspire to create smart contracts some day. </p>
+    <hr/>
+    <h2> Education</h2>
+     <ol>
+      <li>Providence Academy</li>
+      <li>Full introduction to programming course (2024)</li>
+     </ol>
+     <hr>
+     <h2>Work Experience</h2>
+     <h3>Grotonwood</h3>
+     <ol>
+      <li>worked with kids</li>
+      <li>led segways activities</li>
+      <li>de escalated high end situations</li>
+     </ol>
+     <hr>
+     <h2>Skills</h2>
+     <ol>
+      <li>Leadership</li>
+      <li>Communication</li>
+      <li>Teamwork</li>
+      <li>Problem Solving </li>
+     </ol>
+     <h2>Awards</h2>
+     <ol>
+      <li>MVP(2024)</li>
+     </ol>
+     <hr/>
+     <h2>Other</h2>
+     <ul>
+      <li><a href="./public/My hobbies.html">My hobbies</a><li>
+      <li><a href="../4.3 HTML Porfolio Project/public/contact.html">Contact me</a></ul>
+     </ul>
+   <footer>
+      <p>©2025 Michael Sithole.All rights Reserved</p>
+
+   </footer>
+
+ </body>
+ 
